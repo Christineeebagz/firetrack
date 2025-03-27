@@ -37,5 +37,6 @@ export default defineNuxtConfig({
     "@nuxtjs/tailwindcss",
     "@nuxtjs/leaflet",
     "@nuxt/image",
+    "@nuxt/icon",
   ],
 });
