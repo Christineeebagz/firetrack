@@ -33,5 +33,9 @@ export default defineNuxtConfig({
   },
 
   devtools: { enabled: true },
-  modules: ["@nuxtjs/tailwindcss", "@nuxtjs/leaflet"],
+  modules: [
+    "@nuxtjs/tailwindcss",
+    "@nuxtjs/leaflet",
+    "@nuxt/image",
+  ],
 });
