@@ -38,5 +38,6 @@ export default defineNuxtConfig({
     "@nuxtjs/leaflet",
     "@nuxt/image",
     "@nuxt/icon",
+    "@nuxtjs/google-fonts",
   ],
 });
