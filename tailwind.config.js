@@ -2,8 +2,16 @@
 export default {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {},
+    },
+    fontFamily: {
+      Roboto: "Roboto",
+    },
+    container: {
+      center: true,
+      padding: "2rem",
+    },
   },
   plugins: [],
-}
-
+};
