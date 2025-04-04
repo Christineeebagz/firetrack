@@ -1,13 +1,8 @@
 <script setup lang="ts"></script>
 
 <template>
-    <div>  
-        <SideBar />
-        <h1>default</h1> 
-   
+  <div>
+    <h1>Default</h1>
     <slot />
-    </div>
+  </div>
 </template>
-
-
- 
