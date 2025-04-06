@@ -41,4 +41,10 @@ export default defineNuxtConfig({
     "@nuxtjs/google-fonts",
     "@pinia/nuxt",
   ],
+
+  runtimeConfig: {
+    public: {
+      apiUrl: "http://localhost:3000/api",
+    },
+  },
 });
