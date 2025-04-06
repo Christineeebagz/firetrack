@@ -39,5 +39,6 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxt/icon",
     "@nuxtjs/google-fonts",
+    "@pinia/nuxt",
   ],
 });
